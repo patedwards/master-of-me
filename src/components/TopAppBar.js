@@ -126,7 +126,7 @@ export default function TopAppBar() {
             <Logo/>
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            Project Norman
+            Master of Me
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
