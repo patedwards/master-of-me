@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/master-of-me/static/js/main.e860e540.chunk.js",
-    "main.js.map": "/master-of-me/static/js/main.e860e540.chunk.js.map",
+    "main.js": "/master-of-me/static/js/main.62c9c1e1.chunk.js",
+    "main.js.map": "/master-of-me/static/js/main.62c9c1e1.chunk.js.map",
     "runtime-main.js": "/master-of-me/static/js/runtime-main.b1a7f3b7.js",
     "runtime-main.js.map": "/master-of-me/static/js/runtime-main.b1a7f3b7.js.map",
     "static/js/2.7a75edfe.chunk.js": "/master-of-me/static/js/2.7a75edfe.chunk.js",
     "static/js/2.7a75edfe.chunk.js.map": "/master-of-me/static/js/2.7a75edfe.chunk.js.map",
     "index.html": "/master-of-me/index.html",
-    "precache-manifest.9613070cd876db6157d977a3159d7c46.js": "/master-of-me/precache-manifest.9613070cd876db6157d977a3159d7c46.js",
+    "precache-manifest.88bcc2e67c3455547d141a85f3e92188.js": "/master-of-me/precache-manifest.88bcc2e67c3455547d141a85f3e92188.js",
     "service-worker.js": "/master-of-me/service-worker.js",
     "static/js/2.7a75edfe.chunk.js.LICENSE.txt": "/master-of-me/static/js/2.7a75edfe.chunk.js.LICENSE.txt",
     "static/media/AlarmClock.jpg": "/master-of-me/static/media/AlarmClock.8820e1bd.jpg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.b1a7f3b7.js",
     "static/js/2.7a75edfe.chunk.js",
-    "static/js/main.e860e540.chunk.js"
+    "static/js/main.62c9c1e1.chunk.js"
   ]
 }
